@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"HYPERPAR","l":"HYPERPAR()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"HYPERPAR","l":"Hyperpar(long)"}];updateSearchResults();
